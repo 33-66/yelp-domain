@@ -7,10 +7,10 @@ The only language used is python  where the output is displayed in the console.
 ### How to run this project
 First fork and clone the repository in this link  https://github.com/33-66/yelp-domain.git. 
 
-#### The function of the yelp domain
+### The function of the yelp domain
 The function  of  this yelp domain  was to guide hence has  a folder lib that contins 4 files.There is  a  main file called ` main.py `  where all  files are being ran.
 
-#####  license
+###  license
 MIT License
 
 Copyright © 2023 Simon Nganga
